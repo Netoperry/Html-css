@@ -37,7 +37,7 @@ Grandews telas: Acima de 1200px
     }
 }
 
-@media screen and (min-whidth: 768px) and (max-whidth: 992px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     body {
         background-image: url(../Imagens/back-tablet.jpg);
     }
@@ -63,7 +63,7 @@ Grandews telas: Acima de 1200px
     }
 }
 
-@media screen and (min-whidth: 992px) and (max-whidth: 1200px) {
+@media screen and (min-width: 992px) and (max-width: 1200px) {
     body {
         background-image: url(../Imagens/back-pc.jpg);
 
@@ -91,7 +91,7 @@ Grandews telas: Acima de 1200px
 
 }
 
-@media screen and (min-whidth: 1200px) {
+@media screen and (min-width: 1200px) {
     body {
         background-image: url(../Imagens/back-tv.jpg);
     }
